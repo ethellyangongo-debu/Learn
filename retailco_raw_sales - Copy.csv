@@ -1,0 +1,45 @@
+Transaction_ID,Customer_ID,Order_Date,Product,Category,Region,Quantity,Unit_Price,Discount_Code,Payment_Method
+TXN-1001,C-045,2026-10-17,Wireless Earbuds,Electronics,North,2,49.99,SAVE10,Credit Card
+TXN-1002,C-012,2026-10-17,Cotton T-Shirt,Apparel,South,3,19.99,No,PayPal
+TXN-1003,C-078,2026-10-18,Bluetooth Speaker,Electronics,East,1,89.99,SAVE10,Debit Card
+TXN-1004,Unknown,2026-10-18,Water Bottle,Home,West,4,14.99,No,Credit Card
+TXN-1005,C-023,2026-10-19,Cotton T-Shirt,Apparel,North,-2,19.99,SAVE10,PayPal
+TXN-1006,C-091,2026-10-19,Laptop Stand,Office,East,1,34.99,No,Credit Card
+TXN-1007,C-034,2026-10-20,Wireless Earbuds,Electronics,South,1,49.99,SAVE10,Debit Card
+TXN-1008,C-056,2026-10-20,Desk Lamp,Home,West,2,29.99,No,PayPal
+TXN-1009,C-045,2026-10-21,Cotton T-Shirt,Apparel,North,5,19.99,No,Credit Card
+TXN-1010,C-088,2026-10-21,Gaming Mouse,Electronics,East,1,999999,No,Credit Card
+TXN-1011,C-012,2026-10-22,Wireless Earbuds,Electronics,South,1,49.99,SAVE10,PayPal
+TXN-1012,C-067,2026-10-22,Water Bottle,Home,North,2,14.99,No,Debit Card
+TXN-1013,Unknown,2026-10-23,Desk Lamp,Home,West,1,29.99,No,PayPal
+TXN-1014,C-023,2026-10-24,Cotton T-Shirt,Apparel,North,2,19.99,No,Credit Card
+TXN-1015,C-091,2026-10-24,Bluetooth Speaker,Electronics,East,1,89.99,SAVE10,Debit Card
+TXN-1016,C-045,2026-10-25,Gaming Mouse,Electronics,North,1,59.99,No,Credit Card
+TXN-1017,C-078,2026-10-25,Laptop Stand,Office,East,2,34.99,SAVE10,PayPal
+TXN-1018,C-034,2026-10-26,Wireless Earbuds,Electronics,South,3,49.99,No,Debit Card
+TXN-1019,C-112,2026-10-26,Desk Lamp,Home,West,1,29.99,No,Credit Card
+TXN-1020,C-056,2026-10-27,Water Bottle,Home,West,6,14.99,No,PayPal
+TXN-1021,C-012,2026-10-27,Cotton T-Shirt,Apparel,South,4,19.99,SAVE10,Credit Card
+TXN-1022,C-067,2026-10-27,Bluetooth Speaker,Electronics,North,-1,89.99,No,Debit Card
+TXN-1023,C-023,2026-10-28,Wireless Earbuds,Electronics,North,1,49.99,No,PayPal
+TXN-1024,C-088,2026-10-28,Gaming Mouse,Electronics,East,2,59.99,SAVE10,Credit Card
+TXN-1025,C-045,2026-10-29,Laptop Stand,Office,North,1,34.99,No,Credit Card
+TXN-1026,Unknown,2026-10-29,Cotton T-Shirt,Apparel,South,3,19.99,No,Debit Card
+TXN-1027,C-091,2026-10-30,Wireless Earbuds,Electronics,East,2,49.99,SAVE10,PayPal
+TXN-1028,C-034,2026-10-30,Desk Lamp,Home,South,1,29.99,No,Credit Card
+TXN-1029,C-112,2026-10-31,Water Bottle,Home,West,2,14.99,No,PayPal
+TXN-1030,C-056,2026-10-31,Cotton T-Shirt,Apparel,West,2,19.99,SAVE10,Debit Card
+TXN-1031,C-067,2026-11-01,Gaming Mouse,Electronics,North,1,59.99,No,Credit Card
+TXN-1032,C-023,2026-11-01,Bluetooth Speaker,Electronics,North,1,89.99,No,PayPal
+TXN-1033,C-045,2026-11-02,Wireless Earbuds,Electronics,North,2,49.99,SAVE10,Credit Card
+TXN-1034,C-078,2026-11-02,Laptop Stand,Office,East,1,34.99,No,Debit Card
+TXN-1035,C-012,2026-11-02,Water Bottle,Home,South,3,14.99,No,Credit Card
+TXN-1036,C-091,2026-11-03,Desk Lamp,Home,East,2,29.99,SAVE10,PayPal
+TXN-1037,C-034,2026-11-04,Gaming Mouse,Electronics,South,1,59.99,No,Credit Card
+TXN-1038,C-112,2026-11-04,Cotton T-Shirt,Apparel,West,2,19.99,No,Debit Card
+TXN-1039,C-056,2026-11-05,Wireless Earbuds,Electronics,West,1,49.99,SAVE10,PayPal
+TXN-1040,C-067,2026-11-05,Desk Lamp,Home,North,1,29.99,No,Credit Card
+TXN-1041,C-045,2026-11-05,Gaming Mouse,Electronics,North,1,59.99,SAVE10,Credit Card
+TXN-1042,C-023,2026-11-06,Laptop Stand,Office,North,1,34.99,No,PayPal
+TXN-1043,C-078,2026-11-07,Water Bottle,Home,East,4,14.99,No,Debit Card
+TXN-1044,C-034,2026-11-07,Bluetooth Speaker,Electronics,South,1,89.99,SAVE10,Credit Card
